@@ -1,4 +1,4 @@
-# project-3<!doctype html>
+<!doctype html>
 <html>
 <head>
  <script type="text/javascript" src="jquery-1.12.3.min.js"> </script>
@@ -31,7 +31,7 @@
   
   <p><input type="submit" onClick="asubmit()"></p>
     
-   <p> <h4>Choose the Hipster Store</h4></p> //5-8//
+   <p> <h4>Choose the Hipster Store</h4></p> 
   <table width="300" border="1">
   <tbody>
     <tr>
@@ -45,7 +45,7 @@
     </tr>
   </tbody>
 </table>
-    <p><input type="submit"> </p>
+    <p><input type="submit" onClick="bsubmit()"> </p>
 
 <p> <h4>Choose the Hipster Breakfast </h4> </p> //9-12//
  <table width="300" border="1">
@@ -61,9 +61,9 @@
     </tr>
   </tbody>
 </table>
-    <p><input type="submit"> </p>
+    <p> <input type="submit" onClick="csubmit()"> </p>
   
-   <p><h4>Choose the Hipster Shoe</h4> </p> //13-16//
+   <p><h4>Choose the Hipster Shoe</h4> </p> 
  <table width="300" border="1">
   <tbody>
     <tr>
@@ -77,9 +77,9 @@
     </tr>
   </tbody>
 </table>
-    <p><input type="submit"> </p>
+    <p><input type="submit" onClick="dsubmit()"> </p>
 
-<p><h4>Choose the Hipster Phrase</h4></p> //17-20//
+<p><h4>Choose the Hipster Phrase</h4></p> 
 <table width="450" border="1">
   <tbody>
     <tr>
@@ -93,7 +93,7 @@
     </tr>
   </tbody>
 </table>
-    <p><input type="submit"> </p>
+    <p><input type="submit" onClick="esubmit()"> </p>
     
 </body>
 </html>
